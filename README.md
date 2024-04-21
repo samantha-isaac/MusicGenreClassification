@@ -14,18 +14,18 @@ The project seeks to answer several key questions:
 ## Methodology
 The analysis follows a structured approach:
 
--*Data Preparation*: Initial data cleaning and feature engineering to refine the dataset for analysis.
--*Exploratory Data Analysis*: Conducting descriptive statistics and visualizations to understand the data distribution and underlying patterns.
--*Model Development*: Implementing three machine learning models:
--*Linear Regression*: To establish a baseline for prediction.
--*Random Forest Regressor*: For its robustness and effectiveness in handling non-linear data.
--*XGBoost*: For improved performance through gradient boosting techniques.
+- *Data Preparation*: Initial data cleaning and feature engineering to refine the dataset for analysis.
+- *Exploratory Data Analysis*: Conducting descriptive statistics and visualizations to understand the data distribution and underlying patterns.
+- *Model Development*: Implementing three machine learning models:
+- *Linear Regression*: To establish a baseline for prediction.
+- *Random Forest Regressor*: For its robustness and effectiveness in handling non-linear data.
+- *XGBoost*: For improved performance through gradient boosting techniques.
 
 ## Results and Insights
 The study provides several insights into the music industry:
 
--*Genre Popularity*: Identifying which genres are more popular and how song characteristics influence this popularity.
--*Model Performance*: Evaluating the effectiveness of machine learning models in predicting song popularity based on their characteristics. The results indicated that while models like Random Forest and XGBoost show potential, the relationship between song characteristics and popularity is complex and influenced by multiple factors.
+- *Genre Popularity*: Identifying which genres are more popular and how song characteristics influence this popularity.
+- *Model Performance*: Evaluating the effectiveness of machine learning models in predicting song popularity based on their characteristics. The results indicated that while models like Random Forest and XGBoost show potential, the relationship between song characteristics and popularity is complex and influenced by multiple factors.
 
 ## Conclusion
 The project highlights the multifaceted nature of music popularity, suggesting that factors beyond just musical characteristics, such as marketing and social trends, play a critical role in a song's success. This study serves as a base for further exploration into the dynamic and ever-evolving music industry.
